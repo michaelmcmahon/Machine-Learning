@@ -6,4 +6,4 @@ I have setup this repository to hold my Machine Learning training - toy problems
 * Linear Regression using Stochastic Gradient Descent (SGD)
 * Recommendations with Collaborative Filtering using Alternating Least Squares (ALS)
 
-This is active repository
+This is an active repository
