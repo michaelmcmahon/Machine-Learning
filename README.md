@@ -1,4 +1,4 @@
-I have setup this repository to hold my Machine Learning training - toy problems created using Juypter Notebooks. The repository currently contains: 
+I have setup this repository to hold my Machine Learning training problems created using Juypter Notebooks. The repository currently contains: 
 
 * Classification using Naive Bayes Algorithm 
 * Classification using Support Vector Machine (SVM)
