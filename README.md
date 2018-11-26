@@ -1,4 +1,4 @@
-I have setup this repository to hold my Machine Learning training problems created using Scikit-learn in Juypter Notebooks. The repository currently contains: 
+I have setup this repository to hold my Machine Learning training problems created in Juypter Notebooks using Scikit-learn. The repository currently contains: 
 
 * Classification using Naive Bayes Algorithm 
 * Classification using Support Vector Machine (SVM)
